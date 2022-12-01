@@ -12,6 +12,6 @@ All ofthe stylization that was used in the project are located at Figma.
 
 <hr>
 
-![banner](https://user-images.githubusercontent.com/84547699/204942453-a8ae5109-2f5c-47e3-b482-11df77439b63.png)
+![banner](https://user-images.githubusercontent.com/84547699/205124224-a148c7ed-2bd6-4dab-bdf0-0875f086fd7c.png)
 
 
