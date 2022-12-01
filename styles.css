@@ -1,0 +1,25 @@
+@import url("./styles/navbar.css");
+@import url("./styles/banner.css");
+@import url("./styles/stats.css");
+@import url("./styles/jobs.css");
+@import url("./styles/feedback.css");
+@import url("./styles/footer.css");
+
+:root {
+   --branco: #FFFFFF;
+   --vermelho: #8E2424;
+   --preto: #101828;
+   --rosa: #8E24240D;
+   --cinza-font: #667085;
+   --cinza-borda: #EAECF0;
+   --cinza-email: #D0D5DD;
+   --cinza-fundo: #F9FAFB;
+   --fonte-principal: "Inter";
+}
+
+body {
+   background-color: var(--branco);
+   font-family: var(--fonte-principal);
+   font-size: 16px;
+   font-weight: 400;
+}

@@ -1,0 +1,31 @@
+.stats {
+   display: flex;
+   align-items: center;
+   justify-content: space-evenly;
+   margin: 1.5em;
+   padding-bottom: 1em;
+}
+
+.stats-item {
+   display: block;
+   width: 15%;
+}
+
+.stats-numero {
+   font-size: 60px;
+   font-weight: 600;
+   color: var(--vermelho);
+}
+
+.stats-titulo {
+   font-size: 18px;
+   font-weight: 500;
+   color: var(--preto);
+   padding: 1em 0;
+}
+
+.stats-text {
+   font-size: 16px;
+   font-weight: 400;
+   color: var(--cinza-font);
+}
